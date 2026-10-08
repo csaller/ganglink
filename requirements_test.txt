@@ -1,0 +1,3 @@
+# Unpinned on purpose: the weekly CI run tests against the newest Home Assistant.
+pytest-homeassistant-custom-component
+home-assistant-frontend

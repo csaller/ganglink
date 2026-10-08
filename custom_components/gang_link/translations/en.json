@@ -1,0 +1,12 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "description": "Adds the Gang Links sidebar panel, where you link the gangs of a wall switch to the lights they control."
+      }
+    },
+    "abort": {
+      "single_instance_allowed": "Gang Link is already set up."
+    }
+  }
+}
